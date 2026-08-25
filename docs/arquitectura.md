@@ -32,3 +32,4 @@ funcionando. No se pierde todo el trabajo realizado.
 
 En resumen: esta arquitectura permite cambiar fácilmente, entregar valor rápido y recibir
 retroalimentación temprana — exactamente lo que promueve el enfoque Ágil
+
